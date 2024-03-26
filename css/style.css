@@ -5,7 +5,7 @@
     padding: 0;
     font-weight: 400;
     font-style: normal;
-    direction: rtl;
+    direction: ltr;
     font-family: Vazir;
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s
@@ -2677,4 +2677,10 @@ table.jadval tbody tr a {
 .center-side {
     padding: 0 40px;
     width: calc(100% - 560px)
+}
+.ml {
+    margin-left: 10px;
+}
+.mr {
+    margin-right: 15px;
 }
